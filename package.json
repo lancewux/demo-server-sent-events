@@ -1,0 +1,29 @@
+{
+  "name": "demo-server-sent-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lancewux/demo-server-sent-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lancewux/demo-server-sent-events/issues"
+  },
+  "homepage": "https://github.com/lancewux/demo-server-sent-events#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  }
+}
